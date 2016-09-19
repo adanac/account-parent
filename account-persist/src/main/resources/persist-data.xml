@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <account_persist>
+    <accounts>
+        <account>
+            <id>adanac</id>
+            <name>Adanac Loo</name>
+            <email>adanac@sina.com</email>
+            <password>hi,adanac</password>
+            <activated>false</activated>
+        </account>
+    </accounts>
+</account_persist>
